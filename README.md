@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Satyam1942
 - 👀 I’m interested in Software Engineering and Tech
 - 🌱 I’m currently pursuing Bachelor of Technology in  Computer Science and Engineering  from IIT(ISM) Dhanbad..
-- 📫 You can reach me by mailing me [here](satyamjha790@gmail.com) or by connecting me on [LinkedIn](https://www.linkedin.com/in/satyam1942/)
+- 📫 You can reach me by mailing me [here](mailto:satyamjha790@gmail.com) or by connecting me on [LinkedIn](https://www.linkedin.com/in/satyam1942/)
 - Some of my works:
 - [PokePedia](https://pokepedia.pages.dev/)
 - [Postify](https://postify-16l.pages.dev/)
