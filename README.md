@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="600" height="400" alt="Your GIF Description">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="600" height="350" alt="Your GIF Description">
 
 # Hi 👋, I'm Satyam Jha
 
