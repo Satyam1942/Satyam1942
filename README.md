@@ -1,10 +1,12 @@
+![image](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
+
 # Hi 👋, I'm Satyam Jha
 
 A passionate Software Engineer from India.
 
 - 🎓 I'm currently pursuing Bachelor of Technology in Computer Science and Engineering from IIT (ISM) Dhanbad.
 - I have created native android projects, flutter projects as well as full stack projects using MERN.
-- One of the reviewers of the book Coding Interview Patterns by Alex Xu.
+- One of the reviewers of the book **Coding Interview Patterns** by Alex Xu.
 
 **Connect with me:**
 
@@ -40,7 +42,6 @@ A passionate Software Engineer from India.
 - [PokePedia](https://pokepedia.pages.dev/)
 - [Hypervion](https://fake-news-detection-system.pages.dev/)
 - [Postify](https://postify-16l.pages.dev/)
-- [Leetcode Profile](https://leetcode.com/Satyam1942/)
 
 <!---
 Satyam1942/Satyam1942 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
